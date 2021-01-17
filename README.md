@@ -1,5 +1,5 @@
 # Fast-Style-Transfer
-A PyTorch implementation of the paper "Perceptual Losses for Real-Time Style Transfer and Super-Resolution" by Justin Johnson, Alexandre Alahi, and Li Fei-Fei.
+A PyTorch implementation of the paper "Perceptual Losses for Real-Time Style Transfer and Super-Resolution" by Justin Johnson, Alexandre Alahi, and Li Fei-Fei. This is just my adaptation of their work in PyTorch. Thank you also to [this helpful repo](https://github.com/gordicaleksa/pytorch-neural-style-transfer-fast) from gordicaleksa.
 
 If you would like to download the trained weights to run style transfer on your own images, [click here](https://www.dropbox.com/sh/krumw3lpyn89tgj/AACEqkc8I-7_fzF089cfiwnYa?dl=0).
 
